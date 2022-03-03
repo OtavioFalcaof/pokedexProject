@@ -20,7 +20,7 @@
 - Página não encontrada
 - Tela de Carregamento
 
-## Como você pode usar a aplicação localmente
+## Como você pode usar a aplicação localmente 🚀
 
 ```
 // Clonar o respositório do projeto
